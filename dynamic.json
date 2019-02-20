@@ -1,0 +1,48 @@
+{
+	"profile":
+	{
+		"img":"imagesjpeg.png",
+		"name":"pravallika",
+		"roll":"1204",
+		"place":"guntur",
+		"email":"12345@gmail.com"
+	},
+	"career":
+	 {
+	 	"info":"i want to seek a job in reputed company to explore my taughts "
+	 },
+	 "education":[
+	 	{
+	 		"degree":"b.tech",
+	 		"institute":"vignan",
+	 		"per":"85%",
+	 		"yop":"2018"
+	 	},
+	 	{
+	 		"degree":"inter",
+	 		"institute":"abc",
+	 		"per":"85%",
+	 		"yop":"2014"
+	 	},
+
+        {
+	 		"degree":"ssc",
+	 		"institute":"xyz",
+	 		"per":"85%",
+	 		"yop":"2012"
+	 	}
+	 ],
+	 "languages":[
+	 	{
+	 		"info":"english"
+	 	},
+	 	{
+	 		"info":"telugu"
+	 	},
+	 	{
+	 		"info":"hindi"
+	 	}
+	 ]
+
+
+}
